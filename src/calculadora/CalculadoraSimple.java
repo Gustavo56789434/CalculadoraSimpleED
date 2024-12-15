@@ -6,6 +6,8 @@ import java.util.Scanner;
 
 // Cambio realizado desde la rama feature
 
+// Fusion
+
 public class CalculadoraSimple {
 	
 	public static double sumar(double a, double b) {
