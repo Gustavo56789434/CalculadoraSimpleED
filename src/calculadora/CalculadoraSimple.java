@@ -2,7 +2,12 @@ package calculadora;
 
 import java.util.Scanner;
 
+// Esta clase puede sumar o restar 2 numeros
+
+// Cambio realizado desde la rama feature
+
 public class CalculadoraSimple {
+	
 	public static double sumar(double a, double b) {
 		return a + b;
 	}
