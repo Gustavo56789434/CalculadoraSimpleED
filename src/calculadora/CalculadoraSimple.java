@@ -8,6 +8,8 @@ import java.util.Scanner;
 
 // Fusion
 
+// Cambio hecho desde el remoto
+
 public class CalculadoraSimple {
 	
 	public static double sumar(double a, double b) {
